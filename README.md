@@ -3,8 +3,11 @@
 ### What the Dangote Petroleum Refinery IPO actually sells you — measured in millilitres, teaspoons, and dollars
 
 **Author:** Favour (Chukwuemeka) David — Chemical Engineering student & data analyst
+
 **Data source:** Dangote Petroleum Refinery & Petrochemicals FZE — IPO Prospectus, 7 September 2026 (SEC-registered)
+
 **Tools:** Google Sheets (no code required)
+
 **Date:** September 2026
 
 ---
