@@ -19,7 +19,7 @@ The minimum subscription for the Dangote Refinery IPO is **10 shares at ₦525 e
 > **If I pay ₦5,250, how much of an actual oil refinery do I own — in physical units?**
 
 Everyone is debating whether the IPO is a good buy. Nobody I could find translated the share price into refinery units. This project does that, using only figures from the official prospectus.
-
+![What ₦5,250 buys you](images/hero_what_5250_buys.png)
 ---
 
 ## The math
@@ -46,12 +46,14 @@ Litres per share per day   = 0.0000056 × 158.987 L/bbl
 ```
 
 **One share = 0.90 mL of crude oil processed per day.**
+![From 700,000 barrels to your teaspoon](images/funnel_teaspoon.png)
 
 The minimum lot (10 shares = ₦5,250):
 
 ```
 8.96 mL/day ≈ 1.8 teaspoons of crude per day
 Ownership of the entire plant: 0.000008%
+
 ```
 
 ### Step 3 — Your 9 mL, split into real products
@@ -80,6 +82,7 @@ Using the refinery's **actual 12-month product yields to 30 June 2026** (p.111) 
 | Simple payback at 100% payout | ~12.9 years |
 
 Dividends, when declared, are paid in **US dollars** (prospectus dividend policy, pp.129–133) — which means a naira-earning investor's dividend holds its value against naira depreciation.
+![The turnaround behind the IPO](images/financial_turnaround.png)
 
 ### Step 5 — The sanity check nobody else is running
 
@@ -88,6 +91,7 @@ Indicative market cap at listing:  ₦65.22tn (p.35)  ≈ $47.4bn
 Annualized PAT:                    $1.82bn × 2       =  $3.64bn
 
 Implied P/E ≈ 13x
+![The sanity check](images/sanity_check.png)
 ```
 
 Whether the IPO is a good buy depends on refining margins holding (Issuer estimates ~$24.2/bbl GRM for 2026, p.80) and the expansion delivering — but the entry price itself is not absurd on these numbers.
@@ -143,7 +147,7 @@ Every number traces to the prospectus:
 
 ## Reproduce it yourself
 
-📊 **[Download the Google Sheets calculator](sandbox:///mnt/agents/output/dangote_refinery_share_calculator.xlsx)** — upload to Google Drive, open with Google Sheets. Four tabs: verified source data (with page refs), the ownership calculator, the financial layer, and the limitations. Change any input on the Source tab and every result recalculates.
+📊 [Download the Google Sheets calculator](dangote_refinery_share_calculator.xlsx) — upload to Google Drive, open with Google Sheets. Four tabs: verified source data (with page refs), the ownership calculator, the financial layer, and the limitations. Change any input on the Source tab and every result recalculates.
 
 Or from scratch:
 1. Shares post-offer = 120,128,915,901 + 4,100,000,000
