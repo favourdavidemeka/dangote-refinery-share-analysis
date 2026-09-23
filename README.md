@@ -94,10 +94,11 @@ Indicative market cap at listing:  ₦65.22tn (p.35)  ≈ $47.4bn
 Annualized PAT:                    $1.82bn × 2       =  $3.64bn
 
 Implied P/E ≈ 13x
-![The sanity check](images/sanity_check.png)
 ```
 
 Whether the IPO is a good buy depends on refining margins holding (Issuer estimates ~$24.2/bbl GRM for 2026, p.80) and the expansion delivering — but the entry price itself is not absurd on these numbers.
+
+![The sanity check](images/sanity_check.png)
 
 ### Step 6 — The engineer's lens
 
