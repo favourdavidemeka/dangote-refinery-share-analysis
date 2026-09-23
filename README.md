@@ -19,6 +19,7 @@ The minimum subscription for the Dangote Refinery IPO is **10 shares at ₦525 e
 > **If I pay ₦5,250, how much of an actual oil refinery do I own — in physical units?**
 
 Everyone is debating whether the IPO is a good buy. Nobody I could find translated the share price into refinery units. This project does that, using only figures from the official prospectus.
+
 ![What ₦5,250 buys you](images/hero_what_5250_buys.png)
 ---
 
@@ -46,6 +47,7 @@ Litres per share per day   = 0.0000056 × 158.987 L/bbl
 ```
 
 **One share = 0.90 mL of crude oil processed per day.**
+
 ![From 700,000 barrels to your teaspoon](images/funnel_teaspoon.png)
 
 The minimum lot (10 shares = ₦5,250):
@@ -82,6 +84,7 @@ Using the refinery's **actual 12-month product yields to 30 June 2026** (p.111) 
 | Simple payback at 100% payout | ~12.9 years |
 
 Dividends, when declared, are paid in **US dollars** (prospectus dividend policy, pp.129–133) — which means a naira-earning investor's dividend holds its value against naira depreciation.
+
 ![The turnaround behind the IPO](images/financial_turnaround.png)
 
 ### Step 5 — The sanity check nobody else is running
