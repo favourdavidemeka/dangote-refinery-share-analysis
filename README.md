@@ -11,7 +11,7 @@
 
 ## The hook
 
-The minimum subscription for the Dangote Refinery IPO is **10 shares at ₦525 each — ₦5,250**. Nigerians are joking about becoming "co-owners" of the refinery. As a chemical engineering student, I wanted to answer a more literal question:
+The minimum subscription for the Dangote Refinery IPO is **10 shares at ₦525 each — ₦5,250**. Everyone is joking about becoming "co-owners" of the refinery. As a chemical engineering student, I wanted to answer a more literal question:
 
 > **If I pay ₦5,250, how much of an actual oil refinery do I own — in physical units?**
 
