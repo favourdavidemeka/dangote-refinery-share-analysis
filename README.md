@@ -3,6 +3,7 @@
 ### What the Dangote Refinery IPO actually sells you — measured in teaspoons, bottles of water, and dollars
 
 **Author:** Favour (Chukwuemeka) David — Chemical Engineering student & data analyst
+
 **Data source:** The official Dangote Refinery IPO Prospectus (7 September 2026, registered with Nigeria's SEC). Every number below comes from it — page references included.
 **Tools:** Google Sheets only. No code.
 
@@ -38,7 +39,7 @@ Everyone is debating whether the IPO is a good buy. Nobody I could find translat
 
 ## The answer in one picture
 
-![What your ₦5,250 buys you](images/hero_what_5250_buys_v2.png)
+![What your ₦5,250 buys you](images/hero_what_5250_buys_final.png)
 
 **Your ₦5,250 buys you 9 millilitres of crude oil per day — about 1.8 teaspoons.**
 
@@ -64,7 +65,7 @@ One share's daily crude = 700,000 barrels ÷ 124,228,915,901 shares
 Your 10 shares (₦5,250) = 9 mL/day  ≈ 1.8 teaspoons
 ```
 
-![From 700,000 barrels a day to your teaspoon](images/funnel_teaspoon_v2.png)
+![From 700,000 barrels a day to your teaspoon](images/funnel_teaspoon_final.png)
 
 ## Your 9 mL, split into what the refinery actually makes
 
@@ -90,7 +91,7 @@ From the audited accounts (p.76):
 | Sales | $6.3bn | $12.3bn | $13.9bn |
 | Profit / (loss) | **–$1.5bn** | **–$0.5bn** | **+$1.8bn** |
 
-![The company behind the share](images/financial_turnaround_v2.png)
+![The company behind the share](images/financial_turnaround_final.png)
 
 If the second half of 2026 simply matches the first (an assumption — see Limitations), then:
 
@@ -103,7 +104,7 @@ And when the company pays dividends, it pays them **in US dollars** (prospectus 
 
 ## The two checks most people are skipping
 
-![The sanity checks](images/sanity_check_v2.png)
+![The sanity checks](images/sanity_check_final.png)
 
 **Check 1 — Is ₦525 a share expensive?**
 Total value of all shares at listing: ₦65.2tn (p.35) ≈ $47.4bn. One year's profit (doubling the first half): ~$3.6bn. Divide: **~13 years of profit to repay the price.** That's the P/E ratio. It's neither crazy-cheap nor crazy-expensive — whether it works out depends on the next check.
@@ -144,12 +145,13 @@ Or with any calculator:
 
 ---
 
+---
+
 ## Connect with me
 
-- 💼 LinkedIn: [linkedin.com/in/YOUR-URL](https://www.linkedin.com/in/YOUR-URL)
+- 💼 LinkedIn: [linkedin.com/in/favour-david-767b072b3](https://www.linkedin.com/in/favour-david-767b072b3)
+- ✍️ Substack: [davidfavour2.substack.com](https://davidfavour2.substack.com)
 - 🐙 GitHub: [github.com/favourdavidemeka](https://github.com/favourdavidemeka)
-- ✍️ Substack: [your Substack URL]
-- 🐦 X: [@yourhandle]
 
 ---
 
