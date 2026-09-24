@@ -145,8 +145,6 @@ Or with any calculator:
 
 ---
 
----
-
 ## Connect with me
 
 - 💼 LinkedIn: [linkedin.com/in/favour-david-767b072b3](https://www.linkedin.com/in/favour-david-767b072b3)
