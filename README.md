@@ -34,6 +34,7 @@ Nigerians are joking about becoming "co-owners" of the refinery. I'm a chemical 
 > **If I pay ₦5,250, how much of an actual oil refinery do I own — in physical units?**
 
 Everyone is debating whether the IPO is a good buy. Nobody I could find translated the share price into refinery units. This project does that, using only the official prospectus.
+**Who is this for?** Any Nigerian trying to see through the IPO hype — no finance or engineering background needed. And for anyone who wants to see what "verify every number" looks like in practice, not just in theory.
 
 ---
 
@@ -150,7 +151,13 @@ Or with any calculator:
 - 💼 LinkedIn: [linkedin.com/in/favour-david-767b072b3](https://www.linkedin.com/in/favour-david-767b072b3)
 - ✍️ Substack: [davidfavour2.substack.com](https://davidfavour2.substack.com)
 - 🐙 GitHub: [github.com/favourdavidemeka](https://github.com/favourdavidemeka)
+- 🔍 Open to data analytics & business analysis opportunities — reach me on LinkedIn above.
 
 ---
 
+*Built in public by a final-year Chemical Engineering student learning data analytics.*
+
+**⭐ Star this repo if it changed how you see the IPO — it helps others find it.**
+
+**📬 Next up: the Cement Price Tracker. Subscribe on [Substack](https://davidfavour2.substack.com) or follow on [LinkedIn](https://www.linkedin.com/in/favour-david-767b072b3) so you don't miss it.**
 *Built in public by a final-year Chemical Engineering student learning data analytics. If this changed how you see the IPO, share it — and follow the next build.*
